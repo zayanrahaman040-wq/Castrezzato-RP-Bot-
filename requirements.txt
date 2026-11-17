@@ -1,5 +1,4 @@
-discord.py==2.5.2
-audioop-lts
+discord.py==2.3.2
 groq
 python-dotenv
 aiohttp
