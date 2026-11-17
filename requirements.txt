@@ -1,5 +1,4 @@
-discord.py==2.5.2
-audioop-lts
-groq
+discord.py
 python-dotenv
+PyNaCl
 aiohttp
